@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobile programming/belajar-android/Kalkulator/app/src/main/res/drawable/btn_equal_bg.xml" value="0.26458333333333334" />
+        <entry key="..\:/mobile programming/belajar-android/Kalkulator/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/mobile programming/belajar-android/Kalkulator/app/src/main/res/layout/activity_test.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
